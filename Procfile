@@ -1,1 +1,1 @@
-web unicorn run:read_server
+web: python read_server.py
